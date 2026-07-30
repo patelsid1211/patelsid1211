@@ -1,222 +1,82 @@
-# Hi, I'm Siddharth Patel 👋
+<h1 align="center">Hi 👋, I'm Siddharth Patel</h1>
+<h3 align="center">Software Engineer (6+ yrs) · iOS · AI/ML · Data Engineering</h3>
+<h4 align="center">MS Information Technology @ Arizona State University · Seeking Fall 2026 SWE Internship</h4>
 
-<div align="center">
-
-### Senior Full Stack Full Stack
-
-Building scalable software, distributed systems, and intelligent ML-powered applications.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/siddharth-patel-400447146)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/patelsid1211)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:siddharth1211patel@outlook.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=patelsid1211\&style=for-the-badge)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/siddharthpatel-400447146"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Location-Tempe%2C%20AZ-informational?style=for-the-badge" />
+</p>
 
 ---
 
-# 🚀 About Me
+### 👀 About me
 
-Software Engineer with 6+ years of experience designing and delivering scalable web applications, backend systems, data pipelines, and AI-powered solutions across enterprise, fintech, retail, and research domains.
+I'm a Senior Software Engineer with 6+ years building scalable mobile and
+backend systems — from reliable architectures to performance tuning to
+products that scale. I've shipped features for **Nike, Chase, and Under
+Armour**, serving 50,000+ active users, improved system reliability by
+**25%**, and cut QA cycle time by **40%** through CI/CD automation.
 
-Currently pursuing an **M.S. in Information Technology at Arizona State University (GPA: 4.0/4.0)** while conducting engineering-focused research at the **SenSIP Research Group**.
+I'm currently pursuing a Master's in Information Technology at **Arizona
+State University**, deepening my focus on AI, machine learning, and
+intelligent systems while building AI-powered apps and automation
+workflows. I'm looking for a **Fall 2026 SWE internship** where I can work
+on hard problems with a great team.
 
-My work focuses on:
-
-* Distributed Systems
-* AI/ML Infrastructure
-* LLM-Powered Applications
-* Full Stack Engineering
-* Cloud & Data Platforms
-* Production ML Pipelines
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-`Python` `JavaScript` `TypeScript` `SQL` `Swift` `Java` `C++`
-
-### Frontend & Mobile
-
-`React.js` `Next.js` `Redux` `Tailwind CSS`
-`SwiftUI` `UIKit`
-
-### Backend & APIs
-
-`Node.js` `Express.js` `FastAPI`
-`GraphQL` `REST APIs`
-`Microservices` `WebSockets`
-
-### AI / ML
-
-`PyTorch` `TensorFlow`
-`scikit-learn` `MLflow`
-`LangGraph` `LLMs`
-`NLP` `Feature Engineering`
-`PySpark`
-
-### Data Engineering
-
-`Apache Spark` `Airflow`
-`dbt` `Kafka`
-`BigQuery` `PostgreSQL`
-`MongoDB` `Redis`
-
-### Cloud & DevOps
-
-`AWS` `Docker`
-`Kubernetes`
-`GitHub Actions`
-`Jenkins`
-`CI/CD`
+- 🔭 Currently building: **Cleanify** (SwiftUI/SwiftData iOS cleanup
+  utility), **Framewisp** (photo/collage editor), a video editor for
+  content creators, and **VoiceOver** (native macOS text-to-speech app)
+- 🌱 Currently deepening: AI/ML, intelligent systems, and applied data
+  engineering
+- 💼 Past: Accenture, Brainvire Infotech, Rlogical Techsoft, Solution
+  Analysts
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/siddharthpatel-400447146)
 
 ---
 
-# 🧠 Featured Projects
+### 🛠️ Skills
 
-## 🤖 ML-Ops Autonomous Agent
+**Languages & Frameworks**
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### LLM-Powered Monitoring & Retraining System
+**Platforms & Tools**
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
-**Stack:** Python · PySpark · MLflow · LangGraph · Anthropic API · FastAPI · Docker
-
-### Highlights
-
-* Built an end-to-end ML pipeline for ingestion, validation, feature engineering, and model training
-* Implemented reproducible training workflows with MLflow experiment tracking and versioned feature management
-* Engineered an autonomous LLM-powered agent capable of:
-
-  * monitoring live model performance
-  * querying feature stores
-  * triggering retraining workflows
-  * dispatching alerts without human intervention
-* Exposed the system through FastAPI webhooks for production-style integrations
-* Automated deployments and workflow orchestration using Docker and GitHub Actions
-
----
-
-## ☁️ AWS PartyRock — Project Risk Intelligence Platform
-
-**Stack:** AWS PartyRock · Prompt Engineering · Data Analysis
-
-### Highlights
-
-* Built a no-code AI application for project risk analysis using prompt chaining workflows
-* Generated structured risk intelligence across multiple operational dimensions
-* Conducted exploratory data analysis on environmental datasets to identify statistical and pollution trends
+**Core Strengths**
+Core Data · Concurrency (GCD) · RESTful API integration · CI/CD automation ·
+Performance profiling (Xcode Instruments) · Testing (XCTest, XCUITest) ·
+Debugging · Mentorship & code review
 
 ---
 
-# 💼 Experience
+### 💼 Experience Highlights
 
-## Software Engineer — SenSIP Research Group, Arizona State University
-
-### Mar 2026 – Present · Tempe, Arizona
-
-* Developing research-oriented mobile and web applications supporting academic and engineering initiatives
-* Designing scalable backend systems, RESTful APIs, and cloud-integrated research infrastructure
-* Collaborating with interdisciplinary research teams on data-intensive and ML-focused systems
-* Building production-quality engineering solutions for research workflows and experimental platforms
+| Role | Company | Impact |
+|---|---|---|
+| Software Engineer | Arizona State University | Architected a research-group iOS app + custom WordPress platform |
+| Senior Software Engineer | Accenture | +25% system reliability, -40% QA cycle time, -25% crash rate |
+| Senior Software Engineer | Brainvire Infotech | Shipped Nike / Under Armour features to 50,000+ users, +50% engagement |
+| Software Engineer | Rlogical Techsoft | 99.5% production uptime, -20% system errors via GCD optimization |
 
 ---
 
-## Senior Software Engineer — Accenture
+### 📜 Certifications
 
-### Aug 2024 – Aug 2025 · Chennai, India
-
-* Architected and delivered scalable enterprise applications using React.js, Node.js, and TypeScript
-* Built automated testing and CI/CD workflows using GitHub Actions and Jenkins
-* Reduced QA cycle time by 40% and improved application reliability across production systems
-* Optimized backend APIs and frontend integrations, improving performance and reducing latency by 35%
-* Collaborated with cross-functional engineering teams to deliver high-impact enterprise releases
+- AWS Academy Graduate — Machine Learning for NLP
+- J.P. Morgan — Quantitative Research Job Simulation
+- AWS AI Practitioner Challenge
+- Get Started with Lakehouses in Microsoft Fabric
 
 ---
 
-## Senior Software Engineer — Brainvire Infotech
-
-### Apr 2022 – Jul 2024 · Ahmedabad, India
-
-* Led development of high-traffic full stack applications serving 50k+ active users
-* Engineered scalable backend systems and optimized RESTful APIs using caching and query optimization strategies
-* Reduced server response latency by 45% while improving throughput and production stability
-* Integrated analytics, payment gateway, and real-time notification systems using Firebase, Stripe, and WebSockets
-* Mentored engineers and contributed to architecture discussions, technical reviews, and release planning
-
----
-
-## Software Engineer — Rlogical Techsoft
-
-### Sep 2019 – Apr 2022 · Ahmedabad, India
-
-* Developed modular web applications and backend services using React.js, Node.js, and Python
-* Built reusable frontend components and scalable backend utilities that accelerated engineering delivery
-* Integrated REST APIs, authentication systems, and synchronization workflows with robust error handling
-* Improved database performance, uptime, and operational reliability through indexing and caching strategies
-
----
-
-# 🎓 Education
-
-## Arizona State University
-
-### Master of Science — Information Technology
-
-**Tempe, Arizona · GPA: 4.0/4.0 · Expected May 2027**
-
-Relevant Areas:
-
-* Machine Learning
-* Distributed Systems
-* Cloud Computing
-* Data Engineering
-* Database Systems
-
----
-
-## Ahmedabad Institute of Technology (GTU)
-
-### Bachelor of Engineering — Computer Engineering
-
-**Gujarat, India · GPA: 7.53/10.0**
-
-Relevant Areas:
-
-* Algorithms
-* Data Structures
-* Software Engineering
-* Operating Systems
-
----
-
-# 🏆 Certifications
-
-* AWS Data Engineering
-* AWS AI Practitioner
-* AWS Machine Learning
-
----
-
-# 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/siddharth-patel-400447146)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/patelsid1211)
-
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:siddharth1211patel@outlook.com)
-
-</div>
-
----
-
-<div align="center">
-
-### Open To
-
-Software Engineering · AI/ML Engineering · Data Engineering
-
-</div>
+<p align="center"><i>Always open to connecting with engineers, recruiters, and builders working on world-class technology.</i></p>
