@@ -91,8 +91,7 @@ Debugging · Mentorship & code review
 ### 📊 GitHub Activity
 
 <p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=patelsid1211&show_icons=true&count_private=true&hide_border=true&theme=transparent" />
-<img height="160" src="https://streak-stats.demolab.com?user=patelsid1211&hide_border=true&theme=transparent" />
+<img height="170" src="https://streak-stats.demolab.com?user=patelsid1211&hide_border=true&theme=transparent" />
 </p>
 
 <p align="center"><i>Most of my professional work lives in private client repositories. Happy to walk through code or give a live demo. Always open to connecting with engineers, recruiters, and builders.</i></p>
